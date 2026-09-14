@@ -572,7 +572,3 @@ twoway (line target rank, lpattern(solid) lwidth(medium) lcolor(black)) || /*
     graphregion(color(white)) ///
 	title("Hospital performance", size(vlarge) margin(b=1)) ///
 	subtitle("Risk-adjusted for patient case-mix", size(large) margin(t=0 b=1))
-	
-
-
-cd "W:\Bowel Projects\BOWELaudit\Adil_PhD\Emperical Bayes Estimation\figures"
